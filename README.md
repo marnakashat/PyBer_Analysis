@@ -6,11 +6,13 @@ Utilize the capabilities of Python, Pandas, and Matplotlib to analyze and visual
 
 ## Results
 
+
 1. Total Fares
 >Compared to Suburban and Rural cities, Urban cities had higher total fares.
 - Rural - 4327.93
 - Suburban - 19356.33
 - Urban - 39854.38
+
 
 2. Total Rides
 >Compared to suburban and rural communities, Urban cities have more rides.
@@ -18,17 +20,20 @@ Utilize the capabilities of Python, Pandas, and Matplotlib to analyze and visual
 - Suburban - 625
 - Urban - 1625
 
+
 3. Total Drivers
 >Compared to Suburban and Rural cities, Urban cities have more drivers.
 - Rural - 78
 - Suburban - 490
 - Urban - 2405
 
+
 4. Average Fare per Ride
 >Compared to Suburban and Rural cities, the average fare per ride is higher in rural cities.
 - Rural - 34.623440
 - Suburban - 30.970128
 - Urban - 24.525772
+
 
 5. Average Fare per Driver
 >Compared to Suburban and Rural cities, the average fare per driver is higher in rural cities.
