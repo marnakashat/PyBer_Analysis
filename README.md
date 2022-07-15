@@ -7,9 +7,9 @@ Utilize the capabilities of Python, Pandas, and Matplotlib to analyze and visual
 ## Results
 
 1. Urban city has more rides compared to Suburban and Rural cities.
-    -Rural - 125
-    -Suburban - 625
-    -Urban - 1625
+- Rural - 125
+- Suburban - 625
+- Urban - 1625
 
 ### Average Fare per Ride & Average Fare per Driver
 ![Summary of Rides](https://user-images.githubusercontent.com/107198518/179161771-ef9f6c5d-d801-493a-a46c-b41804ae559d.PNG)
