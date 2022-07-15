@@ -48,6 +48,7 @@ Utilize the capabilities of Python, Pandas, and Matplotlib to analyze and visual
 
 ### Total Fares for January-April 2019
 >To visualize this dataframe, an object-oriented interface is shown in the figure below.
+
 ![Fig8](https://user-images.githubusercontent.com/107198518/179161800-576ac399-c25c-4b5c-9b1b-dea0a17ebce3.png)
 
 ## Summary
