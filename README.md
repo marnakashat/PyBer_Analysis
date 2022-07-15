@@ -43,6 +43,7 @@ Utilize the capabilities of Python, Pandas, and Matplotlib to analyze and visual
 
 ### Average Fare per Ride & Average Fare per Driver
 >With a decline in population, the average fare per ride and per driver both rise.
+
 ![Summary of Rides](https://user-images.githubusercontent.com/107198518/179161771-ef9f6c5d-d801-493a-a46c-b41804ae559d.PNG)
 
 ### Total Fares for January-April 2019
